@@ -1,0 +1,2 @@
+	Translation	Positive	Negative	EmotionRationale
+this film is extraordinarily horrendous and i'm not going to waste any more words on it . 	this film is extraordinarily horrendous and i'm not going to waste any more words on it .	1	-4	 this[0] film[0] is[0] extraordinarily[0] horrendous[-3] and[0] i'm[0] not[0] going[0] to[0] waste[-1] any[0] more[0] words[0] on[0] it[0] [[Sentence=-4,1=word max, 1-5]][[[1,-4 max of sentences]]]

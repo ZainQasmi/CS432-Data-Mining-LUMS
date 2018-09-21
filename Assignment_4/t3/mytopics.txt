@@ -1,0 +1,117 @@
+                  TOPIC_1	0.02170	                  TOPIC_2	0.01986	                  TOPIC_3	0.01805	                  TOPIC_4	0.01588	
+
+     contractannouncement	0.01618	                  program	0.00924	          developmentally	0.00937	               blackedout	0.01555	
+                  company	0.01603	                tylermade	0.00799	                 burntcar	0.00576	                 belmarsh	0.01274	
+                  million	0.01209	           floodinsurance	0.00693	                      n't	0.00570	                  footner	0.01219	
+               brownshirt	0.00980	                 ralliers	0.00655	             procedurally	0.00563	                launchpad	0.01216	
+             semisensical	0.00845	                    sacre	0.00636	                     like	0.00548	                   luongo	0.01189	
+
+
+                  TOPIC_5	0.02092	                  TOPIC_6	0.01752	                  TOPIC_7	0.02708	                  TOPIC_8	0.01978	
+
+                 thaisgwa	0.01007	             budgetreview	0.00629	           pontechartrain	0.00943	          microcomputinga	0.00655	
+             intermingled	0.00745	                   second	0.00567	              elevenbravo	0.00894	                      got	0.00638	
+                   milder	0.00690	          paintedprobably	0.00565	                    idyll	0.00872	                   friend	0.00633	
+                  youyour	0.00651	                 townsend	0.00553	           periodaccurate	0.00865	                      daz	0.00589	
+                      yew	0.00589	                  equator	0.00527	                   aruban	0.00839	                     came	0.00580	
+
+
+                  TOPIC_9	0.02263	                 TOPIC_10	0.02184	                 TOPIC_11	0.01809	                 TOPIC_12	0.02230	
+
+                   svelte	0.01541	                something	0.00791	       operatormaintainer	0.01178	            sharplyworded	0.00973	
+                     fill	0.01229	         barbieeverything	0.00674	                      old	0.01108	       emotionallycharged	0.00857	
+                     stap	0.01119	                  zionism	0.00625	                   apiece	0.01102	                   member	0.00812	
+                therefore	0.00946	                 sboldest	0.00610	                     saic	0.00919	                 unfunded	0.00801	
+           hollywoodbased	0.00934	                     knot	0.00605	                      lap	0.00871	                committed	0.00698	
+
+
+                 TOPIC_13	0.02048	                 TOPIC_14	0.01914	                 TOPIC_15	0.01703	                 TOPIC_16	0.02032	
+
+                      net	0.00626	                      n't	0.01044	     plckscriptblogscript	0.01496	                    idyll	0.01220	
+             outofwedlock	0.00624	                     knot	0.00714	                      net	0.01254	                     bill	0.00989	
+                   runnin	0.00568	                 unfunded	0.00653	               blackedout	0.00941	       emotionallycharged	0.00919	
+                  jenness	0.00531	                     came	0.00632	                   biqing	0.00906	                 american	0.00766	
+     contractannouncement	0.00514	                    tanda	0.00626	                   mignon	0.00733	                     ncfa	0.00739	
+
+
+                 TOPIC_17	0.01935	                 TOPIC_18	0.01883	                 TOPIC_19	0.02030	                 TOPIC_20	0.02003	
+
+                    child	0.01965	              elevenbravo	0.01854	                      n't	0.01948	                     saic	0.01260	
+        lesscomprehensive	0.01934	           pontechartrain	0.01652	                     flor	0.01462	                   runnin	0.00943	
+                     ivor	0.01719	                 bhumibol	0.01591	                      get	0.01171	              unmotivated	0.00883	
+                     life	0.01284	               unionlocal	0.01348	                 unfunded	0.01092	            investigation	0.00878	
+                   father	0.01127	                        u	0.01346	                   mignon	0.01048	                     case	0.00844	
+
+
+                 TOPIC_21	0.02036	                 TOPIC_22	0.01976	                 TOPIC_23	0.02150	                 TOPIC_24	0.01755	
+
+                   people	0.00968	                     usps	0.01538	            scratchnsniff	0.00889	                     food	0.01260	
+             psychotronic	0.00861	                 research	0.01140	                 american	0.00727	                    store	0.01152	
+                   cstore	0.00767	                  tallinn	0.00988	                      get	0.00679	                     like	0.00904	
+                    aedes	0.00762	               university	0.00908	          horrorawewonder	0.00673	                      n't	0.00708	
+                      dey	0.00737	          risinginfluence	0.00903	                    stony	0.00587	                   skokie	0.00693	
+
+
+                 TOPIC_25	0.01854	                 TOPIC_26	0.02320	                 TOPIC_27	0.01909	                 TOPIC_28	0.01746	
+
+                   people	0.00671	           disappointedat	0.01467	               settlement	0.00865	                      daz	0.00962	
+                     asin	0.00638	            embellishment	0.01333	            meanspolitics	0.00836	                     saic	0.00874	
+                     hipp	0.00609	                     knot	0.01288	                   haider	0.00754	            fingerpicking	0.00850	
+               blackedout	0.00584	         barbieeverything	0.01270	                     tech	0.00714	                     bach	0.00846	
+                      max	0.00574	                 sboldest	0.01121	                 southern	0.00651	                    aedes	0.00813	
+
+
+                 TOPIC_29	0.01785	                 TOPIC_30	0.02206	                 TOPIC_31	0.01796	                 TOPIC_32	0.02447	
+
+               settlement	0.08066	              brownhaired	0.00842	           passionatejust	0.01941	                  protest	0.01091	
+                      ich	0.07804	                 tukgoose	0.00722	                  country	0.01382	         nontaxcollecting	0.00957	
+               blackedout	0.03431	                 damascus	0.00673	             sneakpreview	0.01342	               government	0.00900	
+                      col	0.03154	             outofwedlock	0.00672	                    kgotv	0.01202	                political	0.00891	
+                shorthand	0.02763	                 buddhist	0.00579	                        u	0.00997	                declutter	0.00757	
+
+
+                 TOPIC_33	0.02525	                 TOPIC_34	0.01771	                 TOPIC_35	0.01935	                 TOPIC_36	0.01803	
+
+             nutsackmarch	0.01215	                according	0.01350	        revascularization	0.01642	                    aedes	0.01011	
+              stationswas	0.01137	                  million	0.01264	                   author	0.01431	                     milc	0.00983	
+                expanders	0.01003	                     year	0.01247	                microfilm	0.01195	                     foot	0.00974	
+                financial	0.00976	            fingerpicking	0.01059	               university	0.01152	                  fanboys	0.00903	
+                     rate	0.00919	                  country	0.00993	                    pedal	0.00987	                   aruban	0.00790	
+
+
+                 TOPIC_37	0.01642	                 TOPIC_38	0.02030	                 TOPIC_39	0.02678	                 TOPIC_40	0.01889	
+
+               settlement	0.02790	                 bhumibol	0.00593	                 diabolic	0.01612	                     user	0.00980	
+                      ich	0.02209	            suthamtewakul	0.00573	                    obama	0.01551	                 issecond	0.00866	
+               remobilize	0.01664	                launchpad	0.00569	               dancingdid	0.01330	                   capitl	0.00863	
+                agobefore	0.01302	                 unfunded	0.00509	                political	0.01218	                  madoffs	0.00824	
+               blackedout	0.01136	     theirintestinaltrack	0.00503	               infinitely	0.01212	                  company	0.00729	
+
+
+                 TOPIC_41	0.02514	                 TOPIC_42	0.01884	                 TOPIC_43	0.01951	                 TOPIC_44	0.02107	
+
+                     deal	0.00751	             budgetreview	0.00871	              pyeongchang	0.00690	                      lap	0.01374	
+                 intimate	0.00628	                   moment	0.00713	                     wore	0.00661	                lucedales	0.00980	
+                 piacenza	0.00553	             manonthemoon	0.00638	                    never	0.00651	               government	0.00977	
+                     olga	0.00543	                      guy	0.00628	                     asin	0.00640	                  jenness	0.00844	
+           produceredward	0.00524	                carpathia	0.00605	                 sboldest	0.00572	              delectation	0.00741	
+
+
+                 TOPIC_45	0.01831	                 TOPIC_46	0.01870	                 TOPIC_47	0.01687	                 TOPIC_48	0.01963	
+
+                     drug	0.00945	                     like	0.00611	                       ti	0.00882	               attainment	0.00867	
+            fingerpicking	0.00939	                    today	0.00601	           theprestigious	0.00870	                scientist	0.00756	
+                   bosque	0.00912	                    tonto	0.00599	         localauthorities	0.00786	                 loedoeen	0.00645	
+          mohawkcommunity	0.00825	                 doctorly	0.00590	                     year	0.00744	                  maratho	0.00638	
+               impudently	0.00807	             outofwedlock	0.00589	                      pvt	0.00696	                    could	0.00616	
+
+
+                 TOPIC_49	0.02047	                 TOPIC_50	0.01780	
+
+                   police	0.01277	                inscribed	0.01189	
+                    death	0.00941	                  twoseed	0.01185	
+                   attack	0.00775	               superstorm	0.01138	
+               grisethink	0.00775	                    pinal	0.00927	
+          prosubstanceuse	0.00760	          paintedprobably	0.00894	
+
+

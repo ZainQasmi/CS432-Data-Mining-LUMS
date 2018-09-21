@@ -1,0 +1,20 @@
+11.03.2017 15:15:27 Results of ResultWriter 'Write as Text' [1]: 
+11.03.2017 15:15:27 
+Apriori
+=======
+
+Minimum support: 0.1 (1526 instances)
+Minimum metric <confidence>: 0.9
+Number of cycles performed: 18
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 7
+
+Size of set of large itemsets L(2): 11
+
+Size of set of large itemsets L(3): 1
+
+Best rules found:
+
+

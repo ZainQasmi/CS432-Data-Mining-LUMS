@@ -1,0 +1,13 @@
+Positive Files
+
+Error reading files ::28
+Accuracy ::97.2
+False Negatives ::0
+
+
+
+Negative Files
+
+Error reading files ::29
+Accuracy ::97.1
+False Negatives ::0.1

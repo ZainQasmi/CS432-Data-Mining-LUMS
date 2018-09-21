@@ -1,0 +1,53 @@
+11.03.2017 15:11:59 Results of ResultWriter 'Write as Text' [1]: 
+11.03.2017 15:11:59 
+Apriori
+=======
+
+Minimum support: 0.01 (153 instances)
+Minimum metric <confidence>: 0.7
+Number of cycles performed: 20
+
+Generated sets of large itemsets:
+
+Size of set of large itemsets L(1): 7
+
+Size of set of large itemsets L(2): 20
+
+Size of set of large itemsets L(3): 27
+
+Size of set of large itemsets L(4): 14
+
+Size of set of large itemsets L(5): 2
+
+Best rules found:
+
+ 1. age=1 distance=2 answered=1 259 ==> sex=1 259    conf:(1)
+ 2. age=1 answered=1 pets=1 163 ==> children=1 163    conf:(1)
+ 3. age=1 answered=1 sex=1 pets=1 157 ==> children=1 157    conf:(1)
+ 4. age=1 answered=1 pets=1 163 ==> sex=1 157    conf:(0.96)
+ 5. age=1 answered=1 children=1 pets=1 163 ==> sex=1 157    conf:(0.96)
+ 6. age=1 answered=1 pets=1 163 ==> sex=1 children=1 157    conf:(0.96)
+ 7. distance=2 sex=1 children=1 pets=1 414 ==> answered=1 378    conf:(0.91)
+ 8. answered=1 pets=1 813 ==> sex=1 704    conf:(0.87)
+ 9. distance=2 answered=1 pets=1 584 ==> sex=1 492    conf:(0.84)
+10. answered=1 children=1 pets=1 672 ==> sex=1 564    conf:(0.84)
+11. age=1 answered=1 385 ==> sex=1 321    conf:(0.83)
+12. answered=1 pets=1 813 ==> children=1 672    conf:(0.83)
+13. distance=2 answered=1 children=1 886 ==> sex=1 725    conf:(0.82)
+14. distance=2 answered=1 1264 ==> sex=1 1032    conf:(0.82)
+15. age=1 answered=1 sex=1 321 ==> distance=2 259    conf:(0.81)
+16. distance=2 answered=1 children=1 pets=1 469 ==> sex=1 378    conf:(0.81)
+17. distance=2 answered=1 pets=1 584 ==> children=1 469    conf:(0.8)
+18. answered=1 sex=1 pets=1 704 ==> children=1 564    conf:(0.8)
+19. answered=1 children=1 1296 ==> sex=1 1037    conf:(0.8)
+20. age=1 answered=1 sex=1 children=1 203 ==> pets=1 157    conf:(0.77)
+21. distance=2 answered=1 sex=1 pets=1 492 ==> children=1 378    conf:(0.77)
+22. age=1 answered=1 children=1 267 ==> sex=1 203    conf:(0.76)
+23. answered=1 1853 ==> sex=1 1391    conf:(0.75)
+24. answered=1 sex=1 1391 ==> children=1 1037    conf:(0.75)
+25. answered=1 sex=1 1391 ==> distance=2 1032    conf:(0.74)
+26. answered=1 pets=1 813 ==> distance=2 584    conf:(0.72)
+27. distance=2 answered=1 sex=1 1032 ==> children=1 725    conf:(0.7)
+28. distance=2 answered=1 1264 ==> children=1 886    conf:(0.7)
+
+

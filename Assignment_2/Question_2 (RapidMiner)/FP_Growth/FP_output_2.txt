@@ -1,0 +1,18 @@
+11.03.2017 15:31:07 Results of ResultWriter 'Write as Text' [1]: 
+11.03.2017 15:31:07 Frequent Item Sets (15):
+pets / 0.631
+children, pets / 0.413
+answered, children, pets / 0.386
+answered, pets / 0.563
+sex / 0.545
+pets, sex / 0.348
+children, pets, sex / 0.283
+answered, children, pets, sex / 0.269
+answered, pets, sex / 0.324
+children, sex / 0.412
+answered, children, sex / 0.399
+answered, sex / 0.515
+children / 0.636
+answered, children / 0.600
+answered / 0.879
+
